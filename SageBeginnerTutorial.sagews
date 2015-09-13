@@ -16,9 +16,10 @@ Note that this worksheet is based upon an earlier one by Theron Hitchman. That w
 
 The first thing to note is that a worksheet is made up of "cells." These are where you will do your programming. To evaluate a cell, you press [Shift]+[Enter]. Try it now in the cell below. Add 5 and 4.
 ︡1cfd9f95-e591-403e-8d16-fc77aea42917︡{"html":"<center><h1>Sage Beginner's Workshop</h1></center>\n\n<p>\nThis is an introduction to the basic functionality of Sage, with an emphasis on seeing how to handle a worksheet and how to get more detailed help. We will point out a little bit of the power that Sage has hiding in it, but this is <b>not</b> a full-fledged tutorial. Down at the bottom of the page you will find links to some more resources.\n</p>\n\n<hr />\n\nNote that this worksheet is based upon an earlier one by Theron Hitchman. That worksheet, <a href=\"http://uni.sagenb.org/home/pub/0/\">available here</a>, was designed for the Sage Notebook interface. This one is written with the SageMathCloud worksheet style in mind. Other contributors include: Harald Schilly, Gustav Delius.\n\n<hr />\n\n<h2>Worksheet Basics</h2>\n\nThe first thing to note is that a worksheet is made up of \"cells.\" These are where you will do your programming. To evaluate a cell, you press [Shift]+[Enter]. Try it now in the cell below. Add 5 and 4."}︡
-︠8cd31a74-73ca-434a-996d-b2339b8f3160︠
+︠8cd31a74-73ca-434a-996d-b2339b8f3160is︠
 5+4
-︡d2750b35-fd98-4d38-9fa4-262b63c205ac︡
+5+4
+︡96100a34-c4a2-4a8b-be0f-10b79ad43708︡{"stdout":"9\n"}︡{"stdout":"9\n"}︡
 ︠df84264c-fbe7-43b9-97a2-45e094363aebi︠
 %html
 <p>
@@ -31,8 +32,9 @@ Another way to evaluate a cell is to use the "run" button at the top of the work
 Try that version now with the simple computation below.
 <p>
 ︡a76ef72f-2a0d-46ae-a729-6f53cd066b5f︡{"html":"<p>\nNote that the output is marked by a grey parenthesis on the left near the line numbers, and the inputs are separated by thin, grey horizontal rulings. Also, the active cell has a light grey background cell.\n</p>\n<p>\nAnother way to evaluate a cell is to use the \"run\" button at the top of the worksheet. Depending on the width of your display, this button may or may not have the word \"run\" on it. If not, just look for the triangle pointing to the right.\n</p>\n<p>\nTry that version now with the simple computation below.\n<p>"}︡
-︠640cc705-2c35-4751-804b-62f46a23e2bf︠
+︠640cc705-2c35-4751-804b-62f46a23e2bfs︠
 67-5
+︡1b031a03-5184-4fb3-974a-07045a69a1b6︡{"stdout":"62\n"}︡
 ︠aa88d77c-911e-4ea7-9316-8bb11a061c17i︠
 %md
 To keep things rolling, you will often need to create new cells. At the end of a worksheet this is done automatically: there is always a set of blank lines at the bottom of a <i>.sagews</i> file. If you somehow manage to evaluate the last line, the page should refresh with a new blank line below the output.
