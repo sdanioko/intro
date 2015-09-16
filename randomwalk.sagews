@@ -15,11 +15,12 @@ Here I am plotting three graphs.
 <li>Thefirst graph displays the 2D of the radndom walk.</li>
 <li>The second graph displays the 3D of the random walk dis</li>
 <li>The third graph displays our random walk as a graph</li>
+<li>Very Beautiful dis</li>
 </ul>
 ︡2d58ebe5-5209-4368-b43a-45916a4990d7︡{"md":"<h1>\nRandomWalk\n</h1>\n<h3>\nSidy Danioko\n\n</h3>\n<p>\nHere I am plotting three graphs.\n\n</p>\n<ul>\n<li>Thefirst graph displays the 2D of the radndom walk.</li>\n<li>The second graph displays the 3D of the random walk dis</li>\n<li>The third graph displays our random walk as a graph</li>\n</ul>\n"}︡
 
 stats.TimeSeries(1000).randomize('normal').sums().plot()
-︡a364cdeb-3794-445a-9b5d-c2fe2c821421︡{"once":false,"file":{"show":true,"uuid":"c2c160ed-d12b-46df-8e47-fb15bb38b400","filename":"/projects/65b4848f-a0bd-4e3f-aa15-04a29ff600bf/.sage/temp/compute1-us/2508/tmp_NaZZRX.svg"}}︡{"html":"<div align='center'></div>"}︡
+︡eda39ac3-e0de-4e9e-81aa-76bb6f1051e6︡{"md":"<h1>\nRandomWalk\n</h1>\n<h3>\nSidy Danioko\n\n</h3>\n<p>\nHere I am plotting three graphs.\n\n</p>\n<ul>\n<li>Thefirst graph displays the 2D of the radndom walk.</li>\n<li>The second graph displays the 3D of the random walk dis</li>\n<li>The third graph displays our random walk as a graph</li>\n<li>Very Beautiful dis</li>\n</ul>\n"}︡
 ︠8fa9c41b-d81b-41ff-ba9b-a082ddb606cc︠
 
 ︠7aca408f-90c7-4c99-9876-278db140a57ci︠
